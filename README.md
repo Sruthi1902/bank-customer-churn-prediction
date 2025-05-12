@@ -37,7 +37,7 @@ This project analyzes bank customer data to predict churn using statistical and 
 ---
 
 ## 📁 Files Included
-- `Group11_Final_Project-1.R`: Full analysis and modeling pipeline
+- `Customer_churn_Code.R`: Full analysis and modeling pipeline
 - `Customer_Churn_Report.pdf`: Final written report with visuals
 
 ---
